@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8vRX9V/4MhNwYeqB6505XfrUdb81cN5zE+9UYaHxp30=",
+  "Source": "webscrapingProxy",
+  "BasePath": "_content/webscrapingProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
